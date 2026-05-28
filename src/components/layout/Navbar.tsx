@@ -19,7 +19,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-40 bg-dark/80 backdrop-blur-md border-b border-zinc-800/50">
       <div className="container-app flex items-center justify-between h-16">
         <Link to="/" className="font-syne text-2xl font-extrabold tracking-tight">
-          <span className="text-primary">Tefa</span>
+          <span className="text-primary">Online</span>
           <span className="text-white">Shop</span>
         </Link>
 

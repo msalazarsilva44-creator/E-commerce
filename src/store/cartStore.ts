@@ -78,7 +78,7 @@ export const useCartStore = create<CartState>()(
       isEmpty: () => get().items.length === 0,
     }),
     {
-      name: 'tefa-cart',
+      name: 'online-shop-cart',
     }
   )
 )

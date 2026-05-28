@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="font-syne text-xl font-bold mb-4">
-              <span className="text-primary">Tefa</span>Shop
+              <span className="text-primary">Online</span>Shop
             </h3>
             <p className="text-sm text-zinc-400 leading-relaxed">
               Moda urbana para quienes se atreven a destacar. Envío gratis en pedidos +$100.
@@ -48,7 +48,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-zinc-800 text-center">
-          <p className="text-xs text-zinc-500">&copy; 2024 Tefa Shop. Todos los derechos reservados.</p>
+          <p className="text-xs text-zinc-500">&copy; 2024 Online Shop. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
