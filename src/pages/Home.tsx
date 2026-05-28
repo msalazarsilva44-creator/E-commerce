@@ -93,7 +93,7 @@ export default function Home() {
       <section className="container-app">
         <div className="relative rounded-2xl overflow-hidden bg-gradient-to-r from-primary/20 to-accent/20 p-10 md:p-16">
           <div className="max-w-md">
-            <h3 className="font-syne text-2xl md:text-3xl font-bold mb-3">Usa el código TEFA10</h3>
+            <h3 className="font-syne text-2xl md:text-3xl font-bold mb-3">Usa cupón de descuento</h3>
             <p className="text-zinc-300 mb-6">Obtén un 10% de descuento en tu primera compra. Válido por tiempo limitado.</p>
             <Link to="/catalogo">
               <Button>Comprar Ahora</Button>
